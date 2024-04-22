@@ -1,0 +1,8 @@
+C:\Users\wendy\source\repos\Interfaz gráfica con conexión a MySQL\Interfaz gráfica con conexión a MySQL\obj\Debug\Interfaz gráfica con conexión a MySQL.csproj.AssemblyReference.cache
+C:\Users\wendy\source\repos\Interfaz gráfica con conexión a MySQL\Interfaz gráfica con conexión a MySQL\obj\Debug\Interfaz gráfica con conexión a MySQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\wendy\source\repos\Interfaz gráfica con conexión a MySQL\Interfaz gráfica con conexión a MySQL\obj\Debug\Interfaz gráfica con conexión a MySQL.exe.config
+C:\Users\wendy\source\repos\Interfaz gráfica con conexión a MySQL\Interfaz gráfica con conexión a MySQL\obj\Debug\Interfaz_gráfica_con_conexión_a_MySQL.Form1.resources
+C:\Users\wendy\source\repos\Interfaz gráfica con conexión a MySQL\Interfaz gráfica con conexión a MySQL\obj\Debug\Interfaz_gráfica_con_conexión_a_MySQL.Properties.Resources.resources
+C:\Users\wendy\source\repos\Interfaz gráfica con conexión a MySQL\Interfaz gráfica con conexión a MySQL\obj\Debug\Interfaz gráfica con conexión a MySQL.csproj.GenerateResource.cache
+C:\Users\wendy\source\repos\Interfaz gráfica con conexión a MySQL\Interfaz gráfica con conexión a MySQL\obj\Debug\Interfaz gráfica con conexión a MySQL.csproj.CoreCompileInputs.cache
+C:\Users\wendy\source\repos\Interfaz gráfica con conexión a MySQL\Interfaz gráfica con conexión a MySQL\obj\Debug\Formulario_simple.form1.resources
